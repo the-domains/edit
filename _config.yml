@@ -1,0 +1,14 @@
+layout_spectrum: 0.4415924933273345
+typography_spectrum: 0.01774339168332517
+color:
+  brandStrength: 0.8062484713736922
+  lightness: 0.5823289842810482
+  saturation: 0.4724563534837216
+  rhythmicContrast: 0.30078022135421634
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: edit
